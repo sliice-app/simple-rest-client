@@ -26,7 +26,7 @@
     </scm>
 
     <properties>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.11.0</jackson.version>
         <httpclient.version>4.5.5</httpclient.version>
         <httpcore.version>4.4.9</httpcore.version>
         <java.version>1.8</java.version>
